@@ -16,7 +16,7 @@ OpenDirs64.dll	1.3.0.0	2012-01-14	15360	Open project or base or add-in directory
 OpenPrjTo64b64.dll	1.1.4.0	2018-06-11	9216	Open project to 64bit	131731815300000000
 OpenSaveCurDir64.dll	1.0.0.0	2014-04-09	16384	Open from or Save to current dir	130415324320000000
 PeExp2Def64.dll	1.7.0.0	2017-08-26	34816	Lists exported functions from exe/dll/lib file to def template	131481991120000000
-PrjChkMS64.dll		2018-09-21	3584		131820095580000000
+PrjChkMS64.dll		2019-08-20	3584		132107909968014000
 PrjCopyPrjFile64.dll		2018-06-11	4096		131731861120000000
 PrjDelTarget64.dll		2018-06-10	3584		131731070940000000
 PrjFixDir64.dll		2013-03-18	3584		130081007300000000
