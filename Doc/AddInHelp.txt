@@ -1,0 +1,4 @@
+AddInHelp
+This Add-In search keyword from addin.chm too. 
+
+source: http://forum.pellesc.de/index.php?topic=4484.msg16778#msg16778

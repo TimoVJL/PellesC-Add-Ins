@@ -1,0 +1,10 @@
+BuildVer modification
+
+This version process version info only from rc-files from dependent files and -release build only.
+So version info can be in another named file and directory.
+This might be a problem with this one :-\
+
+Good points ;)
+If version info is alone in Project1Ver.rc in project Project1, only Project1Ver.rc is compiled in every build.
+
+source: http://forum.pellesc.de/index.php?topic=7073.msg26847#msg26847

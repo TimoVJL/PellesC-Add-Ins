@@ -1,0 +1,15 @@
+PrjUserEnv Add-In modify current project INCLUDE and LIB.
+It adds paths from users PrjUserEnv.ini file.
+
+I someone  create own fSDK folder, that folder can added to project INCLUDE and LIB paths.
+
+Example PrjUserEnv64.ini file for poide64.exe:
+
+;PrjUserEnv64.ini
+[Paths]
+Include=C:\code\fSDK\include
+Lib=C:\code\fSDK\lib\Win
+Lib64=C:\code\fSDK\lib\Win64
+
+
+source: http://forum.pellesc.de/index.php?topic=7053.msg26777#msg26777

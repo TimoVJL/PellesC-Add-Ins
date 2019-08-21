@@ -1,0 +1,3 @@
+AddGuard
+
+This AddIn insert #ifdef/#endif to header in current document.

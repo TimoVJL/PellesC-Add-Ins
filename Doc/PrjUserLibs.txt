@@ -1,0 +1,14 @@
+User library path Add_In test adds user folder to end of project LIB path.
+In menu Project -> Project user lib 
+PrjUserLibs.ini or PrjUserLibs64.ini in user Documents folder
+
+;PrjUserLibs.ini
+[UserLibs]
+Path=C:\code\lib
+
+;PrjUserLibs64.ini
+[UserLibs]
+Path=C:\code\lib
+Path64=C:\code\lib\x64
+
+source: http://forum.pellesc.de/index.php?topic=6979.msg26505#msg26505

@@ -1,0 +1,4 @@
+source: http://forum.pellesc.de/index.php?topic=4467.msg16682#msg16682
+
+This AddIn Open 32-bit project to 64-bit project by creating 64-bit project file.
+Added into project menu.
