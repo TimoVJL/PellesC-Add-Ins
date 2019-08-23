@@ -1,0 +1,5 @@
+source: https://forum.pellesc.de/index.php?topic=2148.msg8024#msg8024
+
+This Add-In inserts text selected lines from list to document to current cursor position.
+Text are in resource strings and in users InsertText[64].ini
+

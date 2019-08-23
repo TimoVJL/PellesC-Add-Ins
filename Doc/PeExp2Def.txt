@@ -1,0 +1,4 @@
+source: https://forum.pellesc.de/index.php?topic=3700.msg13749#msg13749
+
+Lists functions from exe/dll/lib to new .def document.
+Select def type from menu.

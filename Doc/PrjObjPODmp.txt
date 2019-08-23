@@ -1,4 +1,5 @@
+source: http://forum.pellesc.de/index.php?topic=6985.msg26516#msg26516
+
 This Add-In dumps current obj-file with podump.exe to Output window.
 Useful to check generated code quickly.
 
-source: http://forum.pellesc.de/index.php?topic=6985.msg26516#msg26516

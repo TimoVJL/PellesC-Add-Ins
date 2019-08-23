@@ -1,0 +1,4 @@
+source: https://forum.pellesc.de/index.php?topic=7330.msg27816#msg27816
+
+Strips version 9 project file to version 7
+

@@ -1,0 +1,3 @@
+source: https://forum.pellesc.de/index.php?topic=3285.0
+
+Add-In KillProc kills target process

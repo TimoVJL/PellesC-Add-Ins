@@ -1,0 +1,3 @@
+source: https://forum.pellesc.de/index.php?topic=7399.0
+
+Check if -Ze is missing from commandline when needed and add it.

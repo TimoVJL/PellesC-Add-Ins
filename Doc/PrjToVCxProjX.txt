@@ -1,0 +1,8 @@
+source: https://forum.pellesc.de/index.php?topic=7284.msg27674#msg27674
+
+Create <project>.vcproj project file for Visual Studio
+
+SubDir option add ..\ prefix for filenames, so project-file can located in a subfolder for different targets.
+x64 conf add x64 configurations to 32-bit project, usually inserted by default.
+SAFESEH option for a linker /SAFESEH, usually disabled in asm project.
+

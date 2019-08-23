@@ -1,0 +1,3 @@
+source: https://forum.pellesc.de/index.php?topic=7901.0
+
+Add TEXT(..) around a string

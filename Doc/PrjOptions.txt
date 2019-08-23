@@ -1,0 +1,3 @@
+source: https://forum.pellesc.de/index.php?topic=7330.msg27816#msg27816
+
+Show project options in dialog.

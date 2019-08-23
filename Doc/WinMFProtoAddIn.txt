@@ -1,0 +1,17 @@
+source: https://forum.pellesc.de/index.php?topic=2486.msg9415#msg9415
+
+Windows message function prototypes.
+This version doesn't use windowsx.h
+
+A proto for function, a define, a WinMain case, a proto
+Code:
+
+LRESULT OnCreate(HWND hwnd, LPCREATESTRUCT lpCreateStruct);
+...
+case WM_CREATE:
+	return OnCreate(hwnd,(LPCREATESTRUCT)lParam);
+...
+LRESULT OnCreate(HWND hwnd, LPCREATESTRUCT lpCreateStruct)
+{
+	return 0;
+}
