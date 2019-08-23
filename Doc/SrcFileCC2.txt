@@ -1,0 +1,20 @@
+SrcFileCC2 Add-In for v9, a second opinion insert a button to toolbar for additional compilers, to make easy way to use another C compiler to show errors and warnings.
+
+It use SrcFileCC2x64.ini file for options.
+
+[compiler0]
+title=msvc
+ccpath=cl.exe -c -wd4103 -wd4068 -Drestrict=__restrict
+include=C:\code\WDDK710\include
+path=C:\code\msvc2019\bin
+
+[compiler1]
+title=msvc x64
+ccpath=cl.exe -c -wd4103 -wd4068 -Drestrict=__restrict
+include=C:\code\WDDK710\include
+path=C:\code\msvc2019\bin\x64
+
+[options]
+check_only=1
+
+source: https://forum.pellesc.de/index.php?topic=8107.msg29671#msg29671

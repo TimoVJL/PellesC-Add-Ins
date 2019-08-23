@@ -1,0 +1,5 @@
+
+Bookmark Add-In lists lines with "/// " to Output window and user can double click line to jump to it.
+Setup dialog allows you to chance string to find.
+
+source:  https://forum.pellesc.de/index.php?topic=6641.msg24974#msg24974

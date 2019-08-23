@@ -1,0 +1,9 @@
+source: https://forum.pellesc.de/index.php?topic=7334.msg27852#msg27852
+
+Show F1 help from keyword using external program from HelpView.ini or HelpView64.ini
+An external program should use /keyword from commandline, as '/' is a switch for keyword
+
+Code:
+[Settings]
+Program=C:\code\bin64\TLWHViewRE64.exe
+

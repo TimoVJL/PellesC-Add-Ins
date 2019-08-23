@@ -1,0 +1,8 @@
+source: https://forum.pellesc.de/index.php?topic=2976.msg11338#msg11338
+
+CSharp code highlighter.
+
+With minimal project creation for one file.
+Open cs-file or create new and press C# button in toolbar.
+Parser was created from Cpp example
+ListBox lists csc.exe's

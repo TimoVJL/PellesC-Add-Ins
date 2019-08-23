@@ -1,0 +1,26 @@
+source: https://forum.pellesc.de/index.php?topic=7293.msg27680#msg27680
+
+IDECLSIDConv Add-In convert string or search GUID/IID from uuid.lib.
+
+For example: IID_IDispatch returns formatted string:
+Code: [Select]
+const CLSID IID_IDispatch = {0x00020400,0x0000,0x0000,0xC0,0x00,0x00,0x00,0x00,0x00,0x00,0x46};
+Code: [Select]
+IID_IDispatch GUID <000020400H,00000H,00000H,<0C0H,000H,000H,000H,000H,000H,000H,046H>>
+
+EDIT 2019-04-10: a3 ini-file for multiple libpaths and libs
+
+Code:
+[Lib]
+Lib=C:\code\PellesC8\Lib\Win
+[Libs]
+LIB_0=uuid.lib
+LIB_1=dxguid.lib
+LIB_2=windowscodecs.lib
+LIB_3=msxml2.lib
+LIB_4=msxml6.lib
+
+[Lib1]
+Lib=C:\code\PellesC\Lib
+[Libs1]
+Lib_0=reguids.lib

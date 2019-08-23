@@ -1,0 +1,27 @@
+source: https://forum.pellesc.de/index.php?topic=1121.0
+
+Make pe-coff-object from file.
+
+Example for Test.txt
+
+In File2Obj dialog:
+
+File: Test.txt
+Obj:  Test.obj
+Name: hello
+
+Make obj.
+
+Code:
+
+// test_test.c
+#include <stdio.h>
+#include "test.h"
+
+int main(int argc, char *argv[])
+{
+   printf("%s",&hello);
+   return 0;
+}
+
+Add test.obj to linkers 'Library and objects file:'

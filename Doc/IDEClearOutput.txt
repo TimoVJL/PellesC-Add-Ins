@@ -1,0 +1,4 @@
+source: https://forum.pellesc.de/index.php?topic=7291.msg27677#msg27677
+
+IDEClearOutput Add-In just clear poide Output window.
+

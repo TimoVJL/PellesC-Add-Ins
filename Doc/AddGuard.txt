@@ -1,3 +1,5 @@
 AddGuard
 
 This AddIn insert #ifdef/#endif to header in current document.
+
+source: https://forum.pellesc.de/index.php?topic=4968.msg18765#msg18765

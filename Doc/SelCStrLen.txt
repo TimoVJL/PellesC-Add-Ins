@@ -1,0 +1,21 @@
+https://forum.pellesc.de/index.php?topic=7291.msg27677#msg27677
+
+SelCStrLen Add-In display length of selected text to Output in two ways, first in chars, second in bytes.
+Useful with const char string with escape chars, length counted using function
+
+Code:
+int CountCChars(TCHAR *pStr)
+{
+	int len = 0;
+	while (*pStr) {
+		if (*pStr == '\"' || *pStr == '\n') {
+			pStr++;
+			continue;
+		}
+		if (*pStr == '\\')
+			pStr++;
+		len++;
+		pStr++;
+	}
+	return len;
+}
