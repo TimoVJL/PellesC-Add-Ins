@@ -26,6 +26,7 @@ PrjObjPODmp64.dll	1.0.0.0	2019-08-20	5632	Object dump with podump	13210793403546
 PrjOptions64.dll	1.2.3.0	2018-03-12	13312	Show projects options	131653500900000000
 PrjToVCxProjX64.dll	1.0.0.0	2019-08-11	18944	Save project to .vcxproj (test)	132100264820000000
 PrjUserLibs64.dll	1.0.0.0	2017-01-06	5120	Set project LIB environment variable	131281928496065625
+SelCompiler64.dll	1.5.1.0	2016-12-15	40960	Select compiler	131262722240000000
 SelCStrLen64.dll	1.0.0.0	2019-08-20	4096	Count C string length	132107919835974000
 SrcFileCC2x64.dll	1.1.0.0	2019-08-04	8704	Compile source file with C compiler	132093888302896000
 WinMFProtoAddIn64.dll	2.1.5.0	2019-02-06	69120	Insert msg handler to file	131939451848226000
