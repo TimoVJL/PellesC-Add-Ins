@@ -1,0 +1,29 @@
+source. https://forum.pellesc.de/index.php?topic=3250.msg24126#msg24126
+
+Change compiler setting CC AS LINK RC INCLUDE LIB and ASFLAGS CCFLAGS LINKFLAGS RCFLAGS from SelCompiler.ini settings.
+You can change like AS from poasm.exe to JWAsm.exe and back.
+Every settings block must have Title that comes to button.
+
+Usage:
+
+Copy SelCompiler.dll to PellesC AddIns (AddIns64) folder.
+Restart PellesC.
+From menu Tools -> Customize... select Add-ins tab.
+Check Select compiler from list.
+Close dialog with button OK.
+New button SEL CC should appear to toolbar.
+
+Press button SEL CC from toolbar with tooltip text Select Compiler
+To add new entry:
+ - press Options ...
+ - Fill Title: field for new button / entry name
+ - Fill fields and flags you need
+ - Press button New
+
+EDIT: New button saves modified fields only.
+
+Code:
+[UAsm]
+Title=UAsm
+AS=C:\code\UAsm\uasm64.exe
+ASF=-coff
