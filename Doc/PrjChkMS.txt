@@ -1,3 +1,5 @@
 source: https://forum.pellesc.de/index.php?topic=7399.0
 
-Check if -Ze is missing from commandline when needed and add it.
+Check if -Ze is missing from commandline when needed, and add it.
+
+Fix that "\Include\Win\winnt.h(105): fatal error #1014: #error: "No Target Architecture"." error by adding option -Ze automatically.
