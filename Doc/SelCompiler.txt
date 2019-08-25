@@ -22,7 +22,7 @@ To add new entry:
 
 EDIT: New button saves modified fields only.
 
-Code:
+SelCompiler.ini
 [UAsm]
 Title=UAsm
 AS=C:\code\UAsm\uasm64.exe
