@@ -1,0 +1,5 @@
+source: https://forum.pellesc.de/index.php?topic=7248.msg28307#msg28307
+
+This Add-In dumps current obj-file with Zydis 3 to Output window.
+Useful to check generated code quickly.
+
